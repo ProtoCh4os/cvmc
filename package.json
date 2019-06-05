@@ -1,17 +1,17 @@
 {
-  "name": "material-kit",
-  "version": "2.0.5",
-  "description": "Material Kit, a Google Material Desgin. Coded by Creative Tim",
+  "name": "victor-mcunha-cv",
+  "version": "1.0.0",
+  "description": "Curriculum Vitae",
   "main": "index.html",
   "directories": {
     "example": "root"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/material-kit.git"
+    "url": "git+git@github.com:ProtoCh4os/victor-mcunha-cv.git"
   },
   "keywords": [
     "material kit",
@@ -31,12 +31,10 @@
     "frontend",
     "responsive bootstrap kit"
   ],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/material-kit/issues"
-  },
-  "devDependencies": {
+  "homepage": "https://protoch4os.github.io/victor-mcunha-cv/",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
     "@fortawesome/fontawesome-free": "^5.8.2",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^5.0.0",
@@ -45,6 +43,5 @@
     "gulp-open": "^3.0.1",
     "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.4"
-  },
-  "homepage": "https://demos.creative-tim.com/material-kit/index.html"
+  }
 }
