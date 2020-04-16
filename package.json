@@ -13,35 +13,6 @@
     "type": "git",
     "url": "git+git@github.com:ProtoCh4os/victor-mcunha-cv.git"
   },
-  "keywords": [
-    "material kit",
-    "bootstrap material admin",
-    "bootstrap material kit",
-    "material design admin",
-    "material design",
-    "creative tim",
-    "html kit",
-    "html css kit",
-    "web kit",
-    "freebie",
-    "free bootstrap kit",
-    "css3 kit",
-    "bootstrap admin",
-    "bootstrap kit",
-    "frontend",
-    "responsive bootstrap kit"
-  ],
   "license": "MIT",
-  "homepage": "https://protoch4os.github.io/victor-mcunha-cv/",
-  "dependencies": {
-    "gh-pages": "^2.0.1",
-    "@fortawesome/fontawesome-free": "^5.8.2",
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^5.0.0",
-    "gulp-clean": "^0.4.0",
-    "gulp-install": "^1.1.0",
-    "gulp-open": "^3.0.1",
-    "gulp-sass": "^4.0.1",
-    "gulp-sourcemaps": "^2.6.4"
-  }
+  "homepage": "https://protoch4os.github.io/victor-mcunha-cv/"
 }
